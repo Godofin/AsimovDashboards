@@ -1,0 +1,1 @@
+## This is a course for understand python with lib pandas and the dashboards creation with python  
